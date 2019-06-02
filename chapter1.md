@@ -13,10 +13,10 @@ xp: 100
 skills: 2
 ```
 
-This is an example exercise.
+This is an example exercise. dawds
 
 `@instructions`
-
+iajwdiohaefseifjnajlnerbflirnewiufnweufwenhfwuiefbn
 
 `@hint`
 
@@ -28,15 +28,15 @@ This is an example exercise.
 
 `@sample_code`
 ```{python}
-
+x = 15
 ```
 
 `@solution`
 ```{python}
-
+x = 15
 ```
 
 `@sct`
 ```{python}
-
+Ex().check_object("x").has_equal_value()
 ```
